@@ -1,0 +1,32 @@
+{
+    "name": "Udemy - Creation Date",
+    "version": "1.0",
+    "description": "",
+    "manifest_version": 2,
+    "permissions": [
+        "declarativeContent"
+    ],
+    "background": {
+        "scripts": ["background.js"],
+        "persistent": false
+    },
+    "page_action": {
+        "default_popup": "./popup.html",
+        "default_icon": {
+            "16": "./16x16.png",
+            "32": "./32x32.png",
+            "48": "./48x48.png",
+            "128": "./128x128.png"
+        }
+    },
+    "icons": {
+        "16": "./16x16.png",
+        "32": "./32x32.png",
+        "48": "./48x48.png",
+        "128": "./128x128.png"
+    },
+    "content_scripts": [{
+        "matches": ["https://www.udemy.com/course/*"],
+        "js": ["./index.js"]
+    }]
+}
