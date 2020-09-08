@@ -35,12 +35,12 @@ const ageExposer = async () => {
     const isEqualMonth = (actualDate.getMonth() + 1) === parseInt(date.slice(5,7));
 
     dateElement.addEventListener('mouseover', () => {
-        dateElement.innerHTML = `${iconSpan} <b>${yearDiff}</b> Years old`;
+        dateElement.innerHTML = `${iconSpan} ${yearDiff} Years old`;
 
         if (isEqualYear){
-            dateElement.innerHTML = `${iconSpan} <b>${monthDiff}</b> Month${monthDiff > 1 ? 's' : ''} old`
+            dateElement.innerHTML = `${iconSpan} ${monthDiff} Month${monthDiff > 1 ? 's' : ''} old`
             if (isEqualMonth) {
-                dateElement.innerHTML = `${iconSpan} <b>${dayDiff}</b> Day${dayDiff > 1 ? 's' : ''} old`
+                dateElement.innerHTML = `${iconSpan} ${dayDiff} Day${dayDiff > 1 ? 's' : ''} old`
             }
         }
     });
