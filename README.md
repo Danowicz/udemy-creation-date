@@ -14,7 +14,7 @@ The extension fetches Udemy's Affiliate API to get the courses creation date, an
 
 ![hovering](https://media.giphy.com/media/cInK13dWndmE3hf3iW/giphy.gif)
 </br>
-
+</br>
 
 ## Installation
 
