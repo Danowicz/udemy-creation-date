@@ -9,9 +9,6 @@ The extension fetches Udemy's Affiliate API to get the courses creation date, an
 ##
 </br>
 
-</br>
-</br>
-
 ![comparisson](https://i.imgur.com/OpxBw6E.png)
 
 </br>
