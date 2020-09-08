@@ -11,7 +11,7 @@ const ageExposer = async () => {
     const date = data.created.slice(0, 10);
     const dataContainer = document.querySelector('.clp-lead__element-meta');
     const dateElement = document.createElement('div');
-    const iconSpan = `<span style="font-size: 18px; line-height: 0px">&#10711;</span>`
+    const iconSpan = `<span style="font-size: 18px; line-height: 0px">&#10711;</span>`;
     dateElement.style.cssText = `
         text-align: center;
         box-sizing: border-box;
