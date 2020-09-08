@@ -1,4 +1,5 @@
 # Udemy Creation Date - Chrome Extension
+</br>
 Knowing how fast tech changes, Udemy realized that the demand for *ultra mega* updated courses was rapidly making their instructor's courses obsolete.
 Udemy decided to prevent the user from seeing the creation date of the courses, and started to persuade users with a last update date, which is changed 
 however small the update is (e.g. renaming a class or a description).
