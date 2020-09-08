@@ -22,4 +22,8 @@ The extension fetches Udemy's Affiliate API to get the courses creation date, an
 
 ## Installation
 
-To install this extension you can import it unpacked on Google Chrome ( https://developer.chrome.com/extensions/getstarted#manifest ), or install it using the binary (.crx) available in the releases tab.
+To install this extension you can either import it unpacked on Google Chrome ( https://developer.chrome.com/extensions/getstarted#manifest ), or install it using the binary (.crx) available in the releases tab.
+
+- Note: Make sure to set your chrome://extensions to developer mode, see below.
+
+![developer mode](https://i.imgur.com/wtyBtpd.png)
