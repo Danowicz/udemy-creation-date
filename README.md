@@ -11,10 +11,6 @@ The extension fetches Udemy's Affiliate API to get the courses creation date, an
 
 ![comparisson](https://i.imgur.com/OpxBw6E.png)
 
-</br>
-</br>
-
-
 
 **Hovering the component also shows the real age of the courses in years, months, and days.**
 
