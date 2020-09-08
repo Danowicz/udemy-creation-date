@@ -9,8 +9,6 @@ however small the update is (e.g. renaming a class or a description).
 This extension brings back the ability to see the creation date inside any Udemy's courses pages.
 The extension fetches Udemy's Affiliate API to get the courses creation date, and return it as a component within the courses pages.
 
-##
-
 </br>
 
 ![comparisson](https://i.imgur.com/OpxBw6E.png)
