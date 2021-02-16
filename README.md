@@ -1,4 +1,4 @@
-<span style="color:red">*!* Udemy no longer delivers the creation date of courses through its API, the extension has been discontinued.</span>
+**! Udemy no longer delivers the creation date of courses through its API, the extension has been discontinued.**
 
 # &#10711; Udemy Creation Date - Chrome Extension
 </br>
