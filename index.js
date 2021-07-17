@@ -1,5 +1,5 @@
 const fetchData = async (id) => {
-    const data = await fetch(`https://cors-anywhere.herokuapp.com/https://udemy.com/api-2.0/courses/${id}/?fields[course]=created`)
+    const data = await fetch(`https://www.udemy.com/api-2.0/courses/${id}/?fields[course]=created`)
         .then( res => res.json())
         .then( resJSON => resJSON);
     return data;
