@@ -1,5 +1,3 @@
-**! Udemy no longer delivers the creation date of courses through its API, the extension has been discontinued.**
-
 # &#10711; Udemy Creation Date - Chrome Extension
 </br>
 Knowing how fast tech changes, Udemy realized that the demand for *ultra mega* updated courses was rapidly making their instructor's courses obsolete.
