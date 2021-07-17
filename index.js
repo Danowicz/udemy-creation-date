@@ -18,7 +18,6 @@ const ageExposer = async () => {
         border: solid 1px #fff; 
         color: #fff; 
         padding: 4px 8px; 
-        border-radius: 4px; 
         margin-right: 8px; 
         font-size: 14px;
         width: 125px;
